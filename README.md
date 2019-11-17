@@ -1,7 +1,6 @@
 # Web-Comic
-Web comic to learn Scrum
+Web comic to learn Scrum :nerd_face: :bar_chart:
 
-:yum: :space_invader:
 
 Name | Enrollment
 ---------- | ----------
