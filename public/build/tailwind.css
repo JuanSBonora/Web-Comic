@@ -10992,6 +10992,10 @@ video {
   font-size: 4rem;
 }
 
+.text-7xl {
+  font-size: 6rem;
+}
+
 .italic {
   font-style: italic;
 }
