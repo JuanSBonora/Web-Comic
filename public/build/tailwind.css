@@ -5524,13 +5524,13 @@ video {
 }
 
 .py-40 {
-  padding-top: 11rem;
-  padding-bottom: 11rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
 }
 
 .px-40 {
-  padding-left: 10rem;
-  padding-right: 10rem;
+  padding-left: 11rem;
+  padding-right: 11rem;
 }
 
 .py-48 {
@@ -54511,4 +54511,4 @@ video {
   .xl\:z-auto {
     z-index: auto;
   }
-} 
+}
