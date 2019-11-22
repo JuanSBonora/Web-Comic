@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css",
+    "server": "live-server --open=public --entry-file=index.html"
   },
   "keywords": [],
-  "author": "",
+  "author": "JuanSBonora",
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^9.7.1",
     "postcss-cli": "^6.1.3",
+    "server": "^1.0.20",
     "tailwindcss": "^1.1.3"
   }
 }
